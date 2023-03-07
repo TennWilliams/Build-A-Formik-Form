@@ -1,5 +1,5 @@
 # Build-A-Formik-Form
-created a login form with validation using Formik.
+Created a login form with validation using Formik.
 My form included the following:
 
 Email field
