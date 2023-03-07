@@ -3,7 +3,9 @@ Created a login form with validation using Formik.
 My form included the following:
 
 Email field
+
 Password field
+
 Submit button
 
 My form implemented the following input validation rules:
